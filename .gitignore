@@ -65,3 +65,6 @@ desktop.ini
 
 # Coverage
 *coverage/
+
+# Paquetes de revision de Claude
+.reviews/
